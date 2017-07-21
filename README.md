@@ -1,2 +1,2 @@
-# Lucene Contrib Spatial (2.9.4)
-This is a back port of the [spatial contrib project available in the 3.0.3 release of Lucene.net](https://github.com/apache/lucenenet/tree/3.0.3/src/contrib/Spatial) made to work in Lucene 2.9.4 as this is currently the version supported in [#Umbraco](https://github.com/umbraco/Umbraco-CMS)
+# Lucene.Net Contrib Spatial (2.9.4)
+This is a back port of the [spatial contrib project available in the 3.0.3 release of Lucene.Net](https://github.com/apache/lucenenet/tree/3.0.3/src/contrib/Spatial) made to work in Lucene.Net 2.9.4 as this is currently the version supported in [#Umbraco](https://github.com/umbraco/Umbraco-CMS)
